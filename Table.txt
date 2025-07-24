@@ -1,92 +1,14 @@
 return {
     {
-        Name = "Test",
-        Function = function(Username)
-            require(14175063457)(Username)
-        end
-    },
-    {
-        Name = "Gunjourer",
-        Function = function(Username)
-            require(14175074837)(Username)
-        end
-    },
-    {
         Name = "Gojo",
         Function = function(Username)
             require(103408394508146).unlimited(Username)
         end
     },
     {
-        Name = "Dominus Empyreus",
-        Function = function(Username)
-            require(14175081924)(Username)
-        end
-    },
-    {
-        Name = "Bow Master",
-        Function = function(Username)
-            require(14175067340)(Username)
-        end
-    },
-    {
-        Name = "Abyss Eye",
-        Function = function(Username)
-            require(14175105993)(Username)
-        end
-    },
-    {
-        Name = "Sing",
-        Function = function(Username)
-            require(14187594656)(Username)
-        end
-    },
-    {
-        Name = "Notive",
-        Function = function(Username)
-            require(14175901126)(Username)
-        end
-    },
-    {
-        Name = "Fred Bear",
+        Name = "Fred Bear (The lag may be severe)",
         Function = function(Username)
             require(13761549843).pedobear(Username)
-        end
-    },
-    {
-        Name = "Lunarist Gauntlet",
-        Function = function(Username)
-            require(14175883434)(Username)
-        end
-    },
-    {
-        Name = "Hooded Arch Angel",
-        Function = function(Username)
-            require(14175891187)(Username)
-        end
-    },
-    {
-        Name = "Skull Kid",
-        Function = function(Username)
-            require(14175894408)(Username)
-        end
-    },
-    {
-        Name = "Marble Stun Hammer",
-        Function = function(Username)
-            require(14174944324)(Username)
-        end
-    },
-    {
-        Name = "Preach",
-        Function = function(Username)
-            require(14174908319)(Username)
-        end
-    },
-    {
-        Name = "Creep",
-        Function = function(Username)
-            require(14174895980)(Username)
         end
     },
     {
@@ -96,31 +18,13 @@ return {
         end
     },
     {
-        Name = "Pizza Guy",
-        Function = function(Username)
-            require(14021508601).load(Username)
-        end
-    },
-    {
-        Name = "Original Star Glitcher",
-        Function = function(Username)
-            require(5338622654).a(Username)
-        end
-    },
-    {
-        Name = "Wiron",
-        Function = function(Username)
-            require(7972125129).CLoad(Username)
-        end
-    },
-    {
         Name = "Wasp Fighter Jet",
         Function = function(Username)
             require(5860060462).load(Username)
         end
     },
     {
-        Name = "Tiny Infernus",
+        Name = "Tiny Infernus (Unable to reset)",
         Function = function(Username)
             require(8828734242)(Username)
         end
@@ -148,13 +52,7 @@ return {
         Function = function(Username)
             require(5812973403).Halo(Username)
         end
-    },
-    {
-        Name = "Gale Fighter",
-        Function = function(Username)
-            require(4880192192).load(Username)
-        end
-    },
+    },    
     {
         Name = "Full Armory Soldier",
         Function = function(Username)
@@ -222,41 +120,11 @@ return {
         end
     },
     {
-        Name = "Telekinesis",
+        Name = "Kyu's Ender",
         Function = function(Username)
-            require(5201088212).load(Username, "test")
+           require(6226531940).load(Username)
         end
-    },
-    {
-        Name = "Ender",
-        Function = function(Username)
-            require(5835981584):Fire(Username, "hack")
-        end
-    },
-    {
-        Name = "Ender V2",
-        Function = function(Username)
-            require(11839987547).load(Username)
-        end
-    },
-    {
-        Name = "Eyo-Zen V2",
-        Function = function(Username)
-            require(5892684980).load(Username)
-        end
-    },
-    {
-        Name = "What Another One V1.5",
-        Function = function(Username)
-            require(11838287024).load(Username)
-        end
-    },
-    {
-        Name = "Omni God",
-        Function = function(Username)
-            require(14186351007)(Username)
-        end
-    },
+    },    
     {
         Name = "Strat v2 Glitcher",
         Function = function(Username)
@@ -312,27 +180,9 @@ return {
         end
     },
     {
-        Name = "Notive",
-        Function = function(Username)
-            require(14175901126)(Username)
-        end
-    },
-    {
         Name = "Distraught Fire Elemental",
         Function = function(Username)
             require(6492319825).load(Username)
-        end
-    },
-    {
-        Name = "Red Mist",
-        Function = function(Username)
-            require(7473206349).load(Username)
-        end
-    },
-    {
-        Name = "Chess King",
-        Function = function(Username)
-            require(6223977609)["ChessKing"](Username)
         end
     },
     {
@@ -354,7 +204,7 @@ return {
         end
     },
     {
-        Name = "Terraprisma",
+        Name = "Terraprisma (Bug caught)",
         Function = function(Username)
             require(8038024771).CLoad(Username)
         end
@@ -363,18 +213,6 @@ return {
         Name = "Night's Edge",
         Function = function(Username)
             require(8665701840).load(Username)
-        end
-    },
-    {
-        Name = "Minecraft Potions",
-        Function = function(Username)
-            require(8753925776)(Username,true)
-        end
-    },
-    {
-        Name = "Zal_go The Corruptor",
-        Function = function(Username)
-            require(8165331700).load(Username)
         end
     },
     {
