@@ -1,0 +1,3890 @@
+return {
+    {
+        Name = "Test",
+        Function = function(Username)
+            require(14175063457)(Username)
+        end
+    },
+    {
+        Name = "Gunjourer",
+        Function = function(Username)
+            require(14175074837)(Username)
+        end
+    },
+    {
+        Name = "Gojo",
+        Function = function(Username)
+            require(103408394508146).unlimited(Username)
+        end
+    },
+    {
+        Name = "Dominus Empyreus",
+        Function = function(Username)
+            require(14175081924)(Username)
+        end
+    },
+    {
+        Name = "Bow Master",
+        Function = function(Username)
+            require(14175067340)(Username)
+        end
+    },
+    {
+        Name = "Abyss Eye",
+        Function = function(Username)
+            require(14175105993)(Username)
+        end
+    },
+    {
+        Name = "Sing",
+        Function = function(Username)
+            require(14187594656)(Username)
+        end
+    },
+    {
+        Name = "Notive",
+        Function = function(Username)
+            require(14175901126)(Username)
+        end
+    },
+    {
+        Name = "Fred Bear",
+        Function = function(Username)
+            require(13761549843).pedobear(Username)
+        end
+    },
+    {
+        Name = "Lunarist Gauntlet",
+        Function = function(Username)
+            require(14175883434)(Username)
+        end
+    },
+    {
+        Name = "Hooded Arch Angel",
+        Function = function(Username)
+            require(14175891187)(Username)
+        end
+    },
+    {
+        Name = "Skull Kid",
+        Function = function(Username)
+            require(14175894408)(Username)
+        end
+    },
+    {
+        Name = "Marble Stun Hammer",
+        Function = function(Username)
+            require(14174944324)(Username)
+        end
+    },
+    {
+        Name = "Preach",
+        Function = function(Username)
+            require(14174908319)(Username)
+        end
+    },
+    {
+        Name = "Creep",
+        Function = function(Username)
+            require(14174895980)(Username)
+        end
+    },
+    {
+        Name = "Internal War",
+        Function = function(Username)
+            require(6152259244).load(Username)
+        end
+    },
+    {
+        Name = "Pizza Guy",
+        Function = function(Username)
+            require(14021508601).load(Username)
+        end
+    },
+    {
+        Name = "Original Star Glitcher",
+        Function = function(Username)
+            require(5338622654).a(Username)
+        end
+    },
+    {
+        Name = "Wiron",
+        Function = function(Username)
+            require(7972125129).CLoad(Username)
+        end
+    },
+    {
+        Name = "Wasp Fighter Jet",
+        Function = function(Username)
+            require(5860060462).load(Username)
+        end
+    },
+    {
+        Name = "Tiny Infernus",
+        Function = function(Username)
+            require(8828734242)(Username)
+        end
+    },
+    {
+        Name = "Rolling Ball Omen",
+        Function = function(Username)
+            require(8824302289).omen(Username)
+        end
+    },
+    {
+        Name = "Road Rogue",
+        Function = function(Username)
+            require(7473216460).load(Username)
+        end
+    },
+    {
+        Name = "Mercenary",
+        Function = function(Username)
+            require(5177488826).Soldier(Username)
+        end
+    },
+    {
+        Name = "Halo Master Chief",
+        Function = function(Username)
+            require(5812973403).Halo(Username)
+        end
+    },
+    {
+        Name = "Gale Fighter",
+        Function = function(Username)
+            require(4880192192).load(Username)
+        end
+    },
+    {
+        Name = "Full Armory Soldier",
+        Function = function(Username)
+            require(4677541512).load(Username)
+        end
+    },
+    {
+        Name = "Fruit Launcher",
+        Function = function(Username)
+            require(6226957648).load(Username)
+        end
+    },
+    {
+        Name = "Flying Spaceship",
+        Function = function(Username)
+            require(4922372692).load(Username)
+        end
+    },
+    {
+        Name = "Firework Organizer",
+        Function = function(Username)
+            require(8824302289).omen(Username)
+        end
+    },
+    {
+        Name = "Elite Combine",
+        Function = function(Username)
+            require(7548845598).load(Username)
+        end
+    },
+    {
+        Name = "Eden Security Drone",
+        Function = function(Username)
+            require(4021519500).load(Username)
+        end
+    },
+    {
+        Name = "Atlas Axe",
+        Function = function(Username)
+            require(6438361301).load(Username)
+        end
+    },
+    {
+        Name = "Memento Mori",
+        Function = function(Username)
+            require(7473246984).load(Username)
+        end
+    },
+    {
+        Name = "Sadist / Sadique Redux",
+        Function = function(Username)
+            require(13886731002)(Username)
+        end
+    },
+    {
+        Name = "Broken Angel",
+        Function = function(Username)
+            require(13887185366).load(Username)
+        end
+    },
+    {
+        Name = "Goner",
+        Function = function(Username)
+            require(4536456687):Fire(Username, "a")
+        end
+    },
+    {
+        Name = "Telekinesis",
+        Function = function(Username)
+            require(5201088212).load(Username, "test")
+        end
+    },
+    {
+        Name = "Ender",
+        Function = function(Username)
+            require(5835981584):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Ender V2",
+        Function = function(Username)
+            require(11839987547).load(Username)
+        end
+    },
+    {
+        Name = "Eyo-Zen V2",
+        Function = function(Username)
+            require(5892684980).load(Username)
+        end
+    },
+    {
+        Name = "What Another One V1.5",
+        Function = function(Username)
+            require(11838287024).load(Username)
+        end
+    },
+    {
+        Name = "Omni God",
+        Function = function(Username)
+            require(14186351007)(Username)
+        end
+    },
+    {
+        Name = "Strat v2 Glitcher",
+        Function = function(Username)
+            require(11792033063).FUZION(Username)
+        end
+    },
+    {
+        Name = "Finium Glitcher",
+        Function = function(Username)
+            require(11797213354).FUZION(Username)
+        end
+    },
+    {
+        Name = "Sprectraversum Glitcher",
+        Function = function(Username)
+            require(11791988807).FUZION(Username)
+        end
+    },
+    {
+        Name = "Exsorius Glitcher",
+        Function = function(Username)
+            require(11792006247).FUZION(Username)
+        end
+    },
+    {
+        Name = "Arbitrarium Glitcher",
+        Function = function(Username)
+            require(11791792396).FUZION(Username)
+        end
+    },
+    {
+        Name = "Outcast",
+        Function = function(Username)
+            require(5229592351).eliza(Username)
+        end
+    },
+    {
+        Name = "Comedic Chaos",
+        Function = function(Username)
+            require(8837899654).load(Username)
+        end
+    },
+    {
+        Name = "Demoknight",
+        Function = function(Username)
+            require(9075443934).load(Username)
+        end
+    },
+    {
+        Name = "True Madness V2",
+        Function = function(Username)
+            require(8038084808).CLoad(Username)
+        end
+    },
+    {
+        Name = "Notive",
+        Function = function(Username)
+            require(14175901126)(Username)
+        end
+    },
+    {
+        Name = "Distraught Fire Elemental",
+        Function = function(Username)
+            require(6492319825).load(Username)
+        end
+    },
+    {
+        Name = "Red Mist",
+        Function = function(Username)
+            require(7473206349).load(Username)
+        end
+    },
+    {
+        Name = "Chess King",
+        Function = function(Username)
+            require(6223977609)["ChessKing"](Username)
+        end
+    },
+    {
+        Name = "Animation Man",
+        Function = function(Username)
+            require(8076428410).CLoad(Username)
+        end
+    },
+    {
+        Name = "Florus",
+        Function = function(Username)
+            require(7972247318).CLoad(Username)
+        end
+    },
+    {
+        Name = "Pet Leash",
+        Function = function(Username)
+            require(8375420639).get("PetLeash", Username)
+        end
+    },
+    {
+        Name = "Terraprisma",
+        Function = function(Username)
+            require(8038024771).CLoad(Username)
+        end
+    },
+    {
+        Name = "Night's Edge",
+        Function = function(Username)
+            require(8665701840).load(Username)
+        end
+    },
+    {
+        Name = "Minecraft Potions",
+        Function = function(Username)
+            require(8753925776)(Username,true)
+        end
+    },
+    {
+        Name = "Zal_go The Corruptor",
+        Function = function(Username)
+            require(8165331700).load(Username)
+        end
+    },
+    {
+        Name = "Thanos",
+        Function = function(Username)
+            require(2960340602):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Draw",
+        Function = function(Username)
+            require(2966602068):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Elio Basio",
+        Function = function(Username)
+            require(2972449136):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Meerin",
+        Function = function(Username)
+            require(4383182842).load(Username)
+        end
+    },
+    {
+        Name = "Neptunian V5 Remake",
+        Function = function(Username)
+            require(14217235618)(Username)
+        end
+    },
+    {
+        Name = "Guest Glitcher",
+        Function = function(Username)
+            require(4795296269).load(Username)
+        end
+    },
+    {
+        Name = "Buff Noob",
+        Function = function(Username)
+            require(2946085544):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Dominus Astra",
+        Function = function(Username)
+            require(2946064785):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Chara V1",
+        Function = function(Username)
+            require(2945816118):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Jane Doe",
+        Function = function(Username)
+            require(4599267783).ooga(Username)
+        end
+    },
+    {
+        Name = "Diamond Sword",
+        Function = function(Username)
+            require(5300507859).Dark(Username)
+        end
+    },
+    {
+        Name = "Evelyn",
+        Function = function(Username)
+            require(4702863762).load(Username)
+        end
+    },
+    {
+        Name = "Shopping Cart",
+        Function = function(Username)
+            require(2959866384):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Nullioner",
+        Function = function(Username)
+            require(7972181516).CLoad(Username)
+        end
+    },
+    {
+        Name = "Soul Reaper",
+        Function = function(Username)
+            require(7972086233).CLoad(Username)
+        end
+    },
+    {
+        Name = "Craze Runner",
+        Function = function(Username)
+            require(7972228214).CLoad(Username)
+        end
+    },
+    {
+        Name = "Crawl",
+        Function = function(Username)
+            require(7972019185).CLoad(Username)
+        end
+    },
+    {
+        Name = "Parkour",
+        Function = function(Username)
+            require(8076509064).CLoad(Username)
+        end
+    },
+    {
+        Name = "True Insanity",
+        Function = function(Username)
+            require(7972153307).CLoad(Username)
+        end
+    },
+    {
+        Name = "Vancuit",
+        Function = function(Username)
+            require(8037922072).CLoad(Username)
+        end
+    },
+    {
+        Name = "Parallelence Glitcher",
+        Function = function(Username)
+            require(7686265209 ).load(Username)
+        end
+    },
+    {
+        Name = "Awoken Glitcher",
+        Function = function(Username)
+            require(6223977609).giveSortermRW(Username)
+        end
+    },
+    {
+        Name = "Excellence Glitcher",
+        Function = function(Username)
+            require(7686271856).load(Username)
+        end
+    },
+    {
+        Name = "Devoyance Glitcher",
+        Function = function(Username)
+            require(7619760576)(Username)
+        end
+    },
+    {
+        Name = "Severance Glitcher",
+        Function = function(Username)
+            require(7683335255).load(Username)
+        end
+    },
+    {
+        Name = "Dvd Man",
+        Function = function(Username)
+            require(6843126490).dvd(Username)
+        end
+    },
+    {
+        Name = "Deadly Lazer Sun V3",
+        Function = function(Username)
+            require(4528360948):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Deadly Lazer Sun V1",
+        Function = function(Username)
+            require(4658348819):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Biggest Memer",
+        Function = function(Username)
+            require(6295686651)(Username)
+        end
+    },
+    {
+        Name = "Da Feets",
+        Function = function(Username)
+            require(6223977609)['Da  feets'](Username)
+        end
+    },
+    {
+        Name = "Portable Screen",
+        Function = function(Username)
+            require(5928380931).load(Username)
+        end
+    },
+    {
+        Name = "Crazy Dance",
+        Function = function(Username)
+            require(7515404366)(Username,"distract")
+        end
+    },
+    {
+        Name = "Solem Vow",
+        Function = function(Username)
+            require(7400426012).load(Username)
+        end
+    },
+    {
+        Name = "The Boys",
+        Function = function(Username)
+            require(7473297462).load(Username)
+        end
+    },
+    {
+        Name = "Mimicry",
+        Function = function(Username)
+            require(7400411100).load(Username)
+        end
+    },
+    {
+        Name = "Meme Machine",
+        Function = function(Username)
+            require(2959842532):Fire(Username,"test")
+        end
+    },
+    {
+        Name = "Slaughter Bob",
+        Function = function(Username)
+            require(7082061549).detroitbottom(Username)
+        end
+    },
+    {
+        Name = "Liron",
+        Function = function(Username)
+            require(7071265233).load(Username)
+        end
+    },
+    {
+        Name = "Omega",
+        Function = function(Username)
+            require(6856371401)(Username)
+        end
+    },
+    {
+        Name = "Crazy Ex",
+        Function = function(Username)
+            require(6953422184)(Username)
+        end
+    },
+    {
+        Name = "Guillotine (Playername)",
+        Function = function(Username)
+            require(5786385249)("mald", Username, "guillotine")
+        end
+    },
+    {
+        Name = "Firing Squad (Playername)",
+        Function = function(Username)
+            require(5786385249)("mald", Username, "squad")
+        end
+    },
+    {
+        Name = "Arsenal Delinquent",
+        Function = function(Username)
+            require(1525600089).goldentec(Username)
+        end
+    },
+    {
+        Name = "Sin Ultimate",
+        Function = function(Username)
+            require(6583572269).load(Username)
+        end
+    },
+    {
+        Name = "Doge Army",
+        Function = function(Username)
+            require(5115249013).fehack(Username)
+        end
+    },
+    {
+        Name = "Mirror Man Edit",
+        Function = function(Username)
+            require(6764771009).run(Username)
+        end
+    },
+    {
+        Name = "Orb Visualiser [>play id]",
+        Function = function(Username)
+            require(4840756025)(Username)
+        end
+    },
+    {
+        Name = "Rare Tool Pack 2",
+        Function = function(Username)
+            require(7125793570).no(Username, "no")
+        end
+    },
+    {
+        Name = "Nebula Star Glitcher V1.2",
+        Function = function(Username)
+            require(4697268800).load(Username)
+        end
+    },
+    {
+        Name = "Nebula Star Glitcher V1",
+        Function = function(Username)
+            require(4798414097).load(Username)
+        end
+    },
+    {
+        Name = "NI-CISYNIA Glitcher",
+        Function = function(Username)
+            require(7667220373).load(Username)
+        end
+    },
+    {
+        Name = "Characterization Glitcher",
+        Function = function(Username)
+            require(5513812536).Characterization(Username)
+        end
+    },
+    {
+        Name = "Galaxy Glitcher Anime Edit",
+        Function = function(Username)
+            require(6174059995):GalaxyGlitcher(Username)
+        end
+    },
+    {
+        Name = "TYTMXHFL rela's Edit Glitcher 1",
+        Function = function(Username)
+            require(6832350385).load(Username)
+        end
+    },
+    {
+        Name = "TYTMXHFL rela's Edit Glitcher 2",
+        Function = function(Username)
+            require(6911774967).load(Username)
+        end
+    },
+    {
+        Name = "Psychocider",
+        Function = function(Username)
+            require(7622273041):Fire(Username, "i baked you a pie")
+        end
+    },
+    {
+        Name = "Chromospheric Glitcher",
+        Function = function(Username)
+            require(7610956320).chromo(Username)
+        end
+    },
+    {
+        Name = "Last Star Glitcher",
+        Function = function(Username)
+            
+        end
+    },
+    {
+        Name = "Godspeed",
+        Function = function(Username)
+            require(3957090799).load(Username)
+        end
+    },
+    {
+        Name = "Malus",
+        Function = function(Username)
+            require(6226860871).load(Username)
+        end
+    },
+    {
+        Name = "The Alchemist",
+        Function = function(Username)
+            require(6224178099).load(Username)
+        end
+    },
+    {
+        Name = "Shouto Todoroki",
+        Function = function(Username)
+            require(6646850627).load(Username)
+        end
+    },
+    {
+        Name = "Fumo Cirno",
+        Function = function(Username)
+            require(6838409424).load(Username)
+        end
+    },
+    {
+        Name = "Kanna",
+        Function = function(Username)
+            require(03485547628).load(Username)
+        end
+    },
+    {
+        Name = "The World Crazy Edit",
+        Function = function(Username)
+            require(0x15d0d1a90)("jojo", Username)
+        end
+    },
+    {
+        Name = "Hallow The World",
+        Function = function(Username)
+            require(6498729741)("HW", Username)
+        end
+    },
+    {
+        Name = "Made In Heaven",
+        Function = function(Username)
+            require(4902600443)("MIH", Username)
+        end
+    },
+    {
+        Name = "King Crimson",
+        Function = function(Username)
+            require(4902600443)("KC", Username)
+        end
+    },
+    {
+        Name = "Shadow The World Requiem",
+        Function = function(Username)
+            require(6497734492)("STWR", Username)
+        end
+    },
+    {
+        Name = "The World Over Heaven",
+        Function = function(Username)
+            require(4902600443)("TWOH", Username)
+        end
+    },
+    {
+        Name = "Stand Arrow",
+        Function = function(Username)
+            require(4902600443)("Arrow", Username)
+        end
+    },
+    {
+        Name = "Killer Queen",
+        Function = function(Username)
+            require(4902600443)("KQ", Username)
+        end
+    },
+    {
+        Name = "Uderpzal",
+        Function = function(Username)
+            require(5931089380).uderpzal(Username)
+        end
+    },
+    {
+        Name = "Rayman",
+        Function = function(Username)
+            require(6801506680).load(Username)
+        end
+    },
+    {
+        Name = "Deathwish",
+        Function = function(Username)
+            require(6798837348).Deathwish(Username)
+        end
+    },
+    {
+        Name = "Derpz Hoverboard",
+        Function = function(Username)
+            require(6788741042).load(Username)
+        end
+    },
+    {
+        Name = "Coup D'etat",
+        Function = function(Username)
+            require(6224174695).load(Username)
+        end
+    },
+    {
+        Name = "Cytus Edit Glitcher",
+        Function = function(Username)
+            require(6304280002).punitus(Username)
+        end
+    },
+    {
+        Name = "Derpz Glitcher: The Final Chapter",
+        Function = function(Username)
+            require(6304832125).RGT(Username)
+        end
+    },
+    {
+        Name = "GX Glitcher",
+        Function = function(Username)
+            require(6002457001).load(Username)
+        end
+    },
+    {
+        Name = "Help Glitcher",
+        Function = function(Username)
+            require(6291191232).load(Username)
+        end
+    },
+    {
+        Name = "Hemispheric Glitcher",
+        Function = function(Username)
+            require(5090401326)(Username)
+        end
+    },
+    {
+        Name = "Liksn11 Glitcher",
+        Function = function(Username)
+            require(5954900168).liksn11(Username)
+        end
+    },
+    {
+        Name = "Omni Glitcher",
+        Function = function(Username)
+            require(6086929981).load(Username)
+        end
+    },
+    {
+        Name = "Star Redemption",
+        Function = function(Username)
+            require(6226090258).load(Username)
+        end
+    },
+    {
+        Name = "Yannies's SGR",
+        Function = function(Username)
+            require(5620001187).csg(Username)
+        end
+    },
+    {
+        Name = "Another",
+        Function = function(Username)
+            require(5659724224).load(Username)
+        end
+    },
+    {
+        Name = "BlueGuestreborn1's Script",
+        Function = function(Username)
+            require(6365402810).load(Username)
+        end
+    },
+    {
+        Name = "Hololive Fubuki",
+        Function = function(Username)
+            require(5907637844).load(Username)
+        end
+    },
+    {
+        Name = "Kill Machine",
+        Function = function(Username)
+            require(6375409514).load(Username)
+        end
+    },
+    {
+        Name = "Light",
+        Function = function(Username)
+            require(6288466793).load(Username)
+        end
+    },
+    {
+        Name = "Rune",
+        Function = function(Username)
+            require(6300537800).load(Username)
+        end
+    },
+    {
+        Name = "Koreman",
+        Function = function(Username)
+            require(6364332345).me(Username)
+        end
+    },
+    {
+        Name = "Abstract Glitcher V1.2",
+        Function = function(Username)
+            require(5783387105).load(Username)
+        end
+    },
+    {
+        Name = "Artuco's Star Glitcher V2",
+        Function = function(Username)
+            require(5898340652).load(Username)
+        end
+    },
+    {
+        Name = "Awakened Glitcher",
+        Function = function(Username)
+            require(5689227186)(Username)
+        end
+    },
+    {
+        Name = "Cyan Glitcher",
+        Function = function(Username)
+            require(5783070713).load(Username)
+        end
+    },
+    {
+        Name = "Cytus 2R Glitcher",
+        Function = function(Username)
+            require(4949972461).load(Username)
+        end
+    },
+    {
+        Name = "Dimensiona",
+        Function = function(Username)
+            require(4957540270).load(Username)
+        end
+    },
+    {
+        Name = "Firey Switcher",
+        Function = function(Username)
+            require(5748722400).eliza(Username)
+        end
+    },
+    {
+        Name = "SGR Edit",
+        Function = function(Username)
+            require(4721742420):SpectrumOP(Username)
+        end
+    },
+    {
+        Name = "Sans Glitcher",
+        Function = function(Username)
+            require(5489432435).GayGlitcherLeaked("old trash", Username)
+        end
+    },
+    {
+        Name = "Soda Switcher Glitcher",
+        Function = function(Username)
+            require(5775182857).ssg(Username)
+        end
+    },
+    {
+        Name = "Spectrum Glitcher CR (-stop)",
+        Function = function(Username)
+            require(5782848272).yeet(Username)
+        end
+    },
+    {
+        Name = "Zero Switcher",
+        Function = function(Username)
+            require(5745831816):Alpha(Username)
+        end
+    },
+    {
+        Name = "Robot Glitcher",
+        Function = function(Username)
+            require(5349719082).eliza(Username)
+        end
+    },
+    {
+        Name = "Drone Minigun",
+        Function = function(Username)
+            require(5248023821).load(Username)
+        end
+    },
+    {
+        Name = "War Phoenix",
+        Function = function(Username)
+            require(6569530296).load(Username)
+        end
+    },
+    {
+        Name = "Green Lantern",
+        Function = function(Username)
+            require(6513716743).load(Username)
+        end
+    },
+    {
+        Name = "APC Tank",
+        Function = function(Username)
+            require(6569622359).load(Username)
+        end
+    },
+    {
+        Name = "Kazotsky Kick",
+        Function = function(Username)
+            require(6728874428).basskick(Username)
+        end
+    },
+    {
+        Name = "Uber God V2",
+        Function = function(Username)
+            require(6511253627).load(Username)
+        end
+    },
+    {
+        Name = "Pro Knife",
+        Function = function(Username)
+            require(6569617509).load(Username)
+        end
+    },
+    {
+        Name = "Tangel",
+        Function = function(Username)
+            require(6226452825).load(Username)
+        end
+    },
+    {
+        Name = "Project Scripted V2.1",
+        Function = function(Username)
+            require(6725297744):Scripted(Username)
+        end
+    },
+    {
+        Name = "Split Head",
+        Function = function(Username)
+            require(5760009753).load(Username)
+        end
+    },
+    {
+        Name = "Emma U V2",
+        Function = function(Username)
+            require(6226173369).load(Username)
+        end
+    },
+    {
+        Name = "Killbot V3",
+        Function = function(Username)
+            require(6688474792).load(Username)
+        end
+    },
+    {
+        Name = "Noobygames Dark Staff",
+        Function = function(Username)
+            require(4941814153).load(Username)
+        end
+    },
+    {
+        Name = "Musketeer",
+        Function = function(Username)
+            require(6583606008).load(Username)
+        end
+    },
+    {
+        Name = "Amethyst Mask",
+        Function = function(Username)
+            require(6583574020).load(Username)
+        end
+    },
+    {
+        Name = "Magic 8ball",
+        Function = function(Username)
+            require(6438191748).load(Username)
+        end
+    },
+    {
+        Name = "Hellset",
+        Function = function(Username)
+            require(6569726017)(Username)
+        end
+    },
+    {
+        Name = "Fight Mode",
+        Function = function(Username)
+            require(6438401832).load(Username)
+        end
+    },
+    {
+        Name = "Lightning Fighter",
+        Function = function(Username)
+            require(5813888007).load(Username)
+        end
+    },
+    {
+        Name = "Charlie Chaplin",
+        Function = function(Username)
+            require(6606289064).load(Username)
+        end
+    },
+    {
+        Name = "God's Abandoned Daughter V2",
+        Function = function(Username)
+            require(5151004305).load(Username)
+        end
+    },
+    {
+        Name = "R15 Giant Hulk",
+        Function = function(Username)
+            require(6587614770).load(Username)
+        end
+    },
+    {
+        Name = "Ruin Finale",
+        Function = function(Username)
+            require(6473649573).load(Username)
+        end
+    },
+    {
+        Name = "Smite",
+        Function = function(Username)
+            require(4670221296).load(Username)
+        end
+    },
+    {
+        Name = "Marenol",
+        Function = function(Username)
+            require(6473758752).load(Username)
+        end
+    },
+    {
+        Name = "Spectre",
+        Function = function(Username)
+            require(6058222319).load(Username)
+        end
+    },
+    {
+        Name = "Luster's Pirate",
+        Function = function(Username)
+            require(6543481472).load(Username)
+        end
+    },
+    {
+        Name = "Lunatic",
+        Function = function(Username)
+            require(5813708464).load(Username)
+        end
+    },
+    {
+        Name = "Grab Killer",
+        Function = function(Username)
+            require(6460913193).load(Username)
+        end
+    },
+    {
+        Name = "Dread Hunter",
+        Function = function(Username)
+            require(6511194429).load(Username)
+        end
+    },
+    {
+        Name = "Burn",
+        Function = function(Username)
+            require(6478479994).load(Username)
+        end
+    },
+    {
+        Name = "Cyber Dominus",
+        Function = function(Username)
+            require(6511258944).load(Username)
+        end
+    },
+    {
+        Name = "Glockcider",
+        Function = function(Username)
+            require(6500979044).load(Username)
+        end
+    },
+    {
+        Name = "Oros Staff",
+        Function = function(Username)
+            require(6099971134).load(Username)
+        end
+    },
+    {
+        Name = "Guts V2",
+        Function = function(Username)
+            require(6438169891).load(Username)
+        end
+    },
+    {
+        Name = "Dominus Coelum",
+        Function = function(Username)
+            require(6489672292).load(Username)
+        end
+    },
+    {
+        Name = "Vronicus",
+        Function = function(Username)
+            require(6485092713).load(Username)
+        end
+    },
+    {
+        Name = "Radioactive Reaper",
+        Function = function(Username)
+            require(6478070465).load(Username)
+        end
+    },
+    {
+        Name = "Brew Pot",
+        Function = function(Username)
+            require(6438188455).load(Username)
+        end
+    },
+    {
+        Name = "Dominus Praefectus",
+        Function = function(Username)
+            require(6472920124).load(Username)
+        end
+    },
+    {
+        Name = "Spazzing Out",
+        Function = function(Username)
+            require(6455499392).load(Username)
+        end
+    },
+    {
+        Name = "Junkbot",
+        Function = function(Username)
+            require(6438196691)(Username,"JUNKBOT")
+        end
+    },
+    {
+        Name = "Chips",
+        Function = function(Username)
+            require(5097644333).load(Username)
+        end
+    },
+    {
+        Name = "Light Circlet",
+        Function = function(Username)
+            require(5813748809).load(Username)
+        end
+    },
+    {
+        Name = "Rannoch",
+        Function = function(Username)
+            require(6375564504).load(Username)
+        end
+    },
+    {
+        Name = "The Holiest Wrench",
+        Function = function(Username)
+            require(6419718698).load(Username)
+        end
+    },
+    {
+        Name = "Dearsister Pistol",
+        Function = function(Username)
+            require(6332990586).load(Username)
+        end
+    },
+    {
+        Name = "Ice Walker",
+        Function = function(Username)
+            require(6319945511).load(Username)
+        end
+    },
+    {
+        Name = "Ancient Magician",
+        Function = function(Username)
+            require(6352223238).load(Username)
+        end
+    },
+    {
+        Name = "The Nightfall",
+        Function = function(Username)
+            require(6319870493).load(Username)
+        end
+    },
+    {
+        Name = "False God",
+        Function = function(Username)
+            require(6058215921).load(Username)
+        end
+    },
+    {
+        Name = "RachJumper",
+        Function = function(Username)
+            require(6099334284).load(Username)
+        end
+    },
+    {
+        Name = "Aeshma",
+        Function = function(Username)
+            require(6342834455).load(Username)
+        end
+    },
+    {
+        Name = "Operation Noob Event",
+        Function = function(Username)
+            require(6269838898).load()
+        end
+    },
+    {
+        Name = "Voodoo Child V2",
+        Function = function(Username)
+            require(6191675567).load(Username)
+        end
+    },
+    {
+        Name = "Voodoo Child",
+        Function = function(Username)
+            require(6191659992).load(Username)
+        end
+    },
+    {
+        Name = "Gem Master",
+        Function = function(Username)
+            require(5935318869).load(Username)
+        end
+    },
+    {
+        Name = "Sakura Blade",
+        Function = function(Username)
+            require(6226360016).load(Username)
+        end
+    },
+    {
+        Name = "Clarant Blade",
+        Function = function(Username)
+            require(6099967332).load(Username)
+        end
+    },
+    {
+        Name = "Broly",
+        Function = function(Username)
+            require(6029173293).load(Username)
+        end
+    },
+    {
+        Name = "Marx",
+        Function = function(Username)
+            require(5813723371).load(Username)
+        end
+    },
+    {
+        Name = "Magma Defender",
+        Function = function(Username)
+            require(5813766312).load(Username)
+        end
+    },
+    {
+        Name = "Emer",
+        Function = function(Username)
+            require(5813759403).load(Username)
+        end
+    },
+    {
+        Name = "Fake Noot Noot",
+        Function = function(Username)
+            require(4661083363).eliza()
+        end
+    },
+    {
+        Name = "Paragon Glitcher",
+        Function = function(Username)
+            require(4722335098).load(Username)
+        end
+    },
+    {
+        Name = "Friend Glitcher",
+        Function = function(Username)
+            require(4709101293).load(Username)
+        end
+    },
+    {
+        Name = "Universal Glitcher",
+        Function = function(Username)
+            require(4754386252).load(Username)
+        end
+    },
+    {
+        Name = "Helkern Mech",
+        Function = function(Username)
+            require(5813823244).load(Username)
+        end
+    },
+    {
+        Name = "Polaris Cube",
+        Function = function(Username)
+            require(6583577614).load(Username)
+        end
+    },
+    {
+        Name = "Senko",
+        Function = function(Username)
+            require(6538030830).SenkoSan(Username)
+        end
+    },
+    {
+        Name = "Onii Glitcher",
+        Function = function(Username)
+            require(5527846512).NewOnii(Username)
+        end
+    },
+    {
+        Name = "Soul Glitcher",
+        Function = function(Username)
+            require(5581466263).Soul(Username)
+        end
+    },
+    {
+        Name = "Can't Sleep",
+        Function = function(Username)
+            require(6225799838).run(Username)
+        end
+    },
+    {
+        Name = "Chaotic Glitcher",
+        Function = function(Username)
+            require(6234005961).load(Username)
+        end
+    },
+    {
+        Name = "Fallen Angelic Warrior",
+        Function = function(Username)
+            require(4945971273).load(Username)
+        end
+    },
+    {
+        Name = "Golden Glitcher",
+        Function = function(Username)
+            require(5944671398).golden(Username)
+        end
+    },
+    {
+        Name = "Maddox",
+        Function = function(Username)
+            require(4875832017).load(Username)
+        end
+    },
+    {
+        Name = "Mrs. Bye Bye",
+        Function = function(Username)
+            require(4945682948).load(Username)
+        end
+    },
+    {
+        Name = "Pandora",
+        Function = function(Username)
+            require(3547672868).p11(Username)
+        end
+    },
+    {
+        Name = "Pink Barbie Car",
+        Function = function(Username)
+            require(4745872847).load(Username)
+        end
+    },
+    {
+        Name = "ROAD ROLLER DA",
+        Function = function(Username)
+            require(4581300009).xd(Username)
+        end
+    },
+    {
+        Name = "Super Reality Glitcher",
+        Function = function(Username)
+            require(4957436288).load(Username)
+        end
+    },
+    {
+        Name = "Star Platinum",
+        Function = function(Username)
+            require(5534238329)(Username, "StarPlatinum")
+        end
+    },
+    {
+        Name = "The All Seeing Hand",
+        Function = function(Username)
+            require(5375399205).Player(Username)
+        end
+    },
+    {
+        Name = "The World",
+        Function = function(Username)
+            require(4902600443)("TW", Username)
+        end
+    },
+    {
+        Name = "Toxicity",
+        Function = function(Username)
+            require(4936620258):Fire(Username)
+        end
+    },
+    {
+        Name = "Unithereal Glitcher Edit",
+        Function = function(Username)
+            require(5024713750)(Username)
+        end
+    },
+    {
+        Name = "AOM Glitcher Edit",
+        Function = function(Username)
+            require(4721760220):yes(Username)
+        end
+    },
+    {
+        Name = "Till It's Over Glitcher",
+        Function = function(Username)
+            require(5324939683).tillitsover(Username)
+        end
+    },
+    {
+        Name = "I N S A N I T Y",
+        Function = function(Username)
+            require(6223977609)["Insanity"](Username)
+        end
+    },
+    {
+        Name = "Hell Dominus",
+        Function = function(Username)
+            require(5396767447).load(Username)
+        end
+    },
+    {
+        Name = "Chillingo",
+        Function = function(Username)
+            require(6126846548).load(Username)
+        end
+    },
+    {
+        Name = "Decimation Glitcher",
+        Function = function(Username)
+            require(6602728152)(Username)
+        end
+    },
+    {
+        Name = "4 Spin Shuriken",
+        Function = function(Username)
+            require(4941658507).load(Username)
+        end
+    },
+    {
+        Name = "500 Pound Ball",
+        Function = function(Username)
+            require(5018462111):Fire(Username)
+        end
+    },
+    {
+        Name = "ASG",
+        Function = function(Username)
+            require(5306145175).eliza(Username)
+        end
+    },
+    {
+        Name = "ASHA",
+        Function = function(Username)
+            require(5408257176).c3(Username)
+        end
+    },
+    {
+        Name = "AXR Piercer",
+        Function = function(Username)
+            require(5014529750):Fire(Username)
+        end
+    },
+    {
+        Name = "Abysylum",
+        Function = function(Username)
+            require(4698692905).load(Username)
+        end
+    },
+    {
+        Name = "Abysylum V2",
+        Function = function(Username)
+            require(5151019250).load(Username)
+        end
+    },
+    {
+        Name = "AdNOnis",
+        Function = function(Username)
+            require(5908631416)()
+        end
+    },
+    {
+        Name = "Aether Bracelet",
+        Function = function(Username)
+            require(4660106429).load(Username)
+        end
+    },
+    {
+        Name = "Agent Agony",
+        Function = function(Username)
+            require(14174465891)(Username)
+        end
+    },
+    {
+        Name = "Agent Wesker",
+        Function = function(Username)
+            require(4932690106).load(Username)
+        end
+    },
+    {
+        Name = "Ali",
+        Function = function(Username)
+            require(14175904153)(Username)
+        end
+    },
+    {
+        Name = "Angel",
+        Function = function(Username)
+            require(4671838873).load(Username)
+        end
+    },
+    {
+        Name = "Angel And Demon",
+        Function = function(Username)
+            require(5166703170).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Angelic Rainbow Goner",
+        Function = function(Username)
+            require(4939833529).G(Username)
+        end
+    },
+    {
+        Name = "Another Sans",
+        Function = function(Username)
+            require(4952709475).load(Username)
+        end
+    },
+    {
+        Name = "Another Scythe",
+        Function = function(Username)
+            require(4810850766).Fire(Username)
+        end
+    },
+    {
+        Name = "Aquatic Mage",
+        Function = function(Username)
+            require(4671788607).load(Username)
+        end
+    },
+    {
+        Name = "Arch Angel",
+        Function = function(Username)
+            require(2972034986):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Ares the Bladist",
+        Function = function(Username)
+            require(5813806760).load(Username)
+        end
+    },
+    {
+        Name = "Armo Drill Hand",
+        Function = function(Username)
+            require(4941668834).load(Username)
+        end
+    },
+    {
+        Name = "Armor Money Stand",
+        Function = function(Username)
+            require(5164017575)("TH", Username)
+        end
+    },
+    {
+        Name = "Artemis Sword",
+        Function = function(Username)
+            require(4936491962).load(Username)
+        end
+    },
+    {
+        Name = "Articulacy",
+        Function = function(Username)
+            require(5730283203).Articulacy(Username)
+        end
+    },
+    {
+        Name = "Auxno Glitcher V2",
+        Function = function(Username)
+            require(5366687826)(Username)
+        end
+    },
+    {
+        Name = "Axiom Glitcher",
+        Function = function(Username)
+            require(4859515241).load(Username)
+        end
+    },
+    {
+        Name = "Axiomette",
+        Function = function(Username)
+            require(5018330008):Fire(Username)
+        end
+    },
+    {
+        Name = "Balance God",
+        Function = function(Username)
+            require(4702754589).load(Username)
+        end
+    },
+    {
+        Name = "Bald Man With Powers",
+        Function = function(Username)
+            require(5176617106).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Baldi",
+        Function = function(Username)
+            require(4655442549).Fire(Username)
+        end
+    },
+    {
+        Name = "Banzai Bazooka",
+        Function = function(Username)
+            require(4610437218).load(Username)
+        end
+    },
+    {
+        Name = "BaseBall Bat V5",
+        Function = function(Username)
+            require(4559977647).load(Username)
+        end
+    },
+    {
+        Name = "Basketball Bat V4",
+        Function = function(Username)
+            require(4559963876).load(Username)
+        end
+    },
+    {
+        Name = "Beerus",
+        Function = function(Username)
+            require(4702700445).load(Username)
+        end
+    },
+    {
+        Name = "Betty Noire",
+        Function = function(Username)
+            require(5139373601).load(Username)
+        end
+    },
+    {
+        Name = "Big Axiom Glitcher",
+        Function = function(Username)
+            require(5320792048).load(Username)
+        end
+    },
+    {
+        Name = "Big Daddy",
+        Function = function(Username)
+            require(14174930725)(Username)
+        end
+    },
+    {
+        Name = "Big Hammer",
+        Function = function(Username)
+            require(4936233129).load(Username)
+        end
+    },
+    {
+        Name = "Big Smoke",
+        Function = function(Username)
+            require(4571438935).load(Username)
+        end
+    },
+    {
+        Name = "Billie Eilish",
+        Function = function(Username)
+            require(6213717452).load(Username)
+        end
+    },
+    {
+        Name = "Black Dragon Exe",
+        Function = function(Username)
+            require(4702452894).axe(Username)
+        end
+    },
+    {
+        Name = "Black King Crismon",
+        Function = function(Username)
+            require(5164017575)("WS", Username)
+        end
+    },
+    {
+        Name = "Blade Magician",
+        Function = function(Username)
+            require(4696442000).load(Username, "loaf")
+        end
+    },
+    {
+        Name = "Blind Reaper",
+        Function = function(Username)
+            require(4665382251).load(Username)
+        end
+    },
+    {
+        Name = "Boom X4",
+        Function = function(Username)
+            require(2830670878):Run(Username, "i baked you a pie")
+        end
+    },
+    {
+        Name = "Bow Master",
+        Function = function(Username)
+            require(4529618784).bruh(Username)
+        end
+    },
+    {
+        Name = "Brick Hamman",
+        Function = function(Username)
+            require(4702858285).load(Username)
+        end
+    },
+    {
+        Name = "Brutal Anti Furry",
+        Function = function(Username)
+            require(5062592514).load(Username)
+        end
+    },
+    {
+        Name = "Brutal Overlord",
+        Function = function(Username)
+            require(14174899510)(Username)
+        end
+    },
+    {
+        Name = "Burning Darkness",
+        Function = function(Username)
+            require(5209951430).load(Username)
+        end
+    },
+    {
+        Name = "Cactos The Fallen God",
+        Function = function(Username)
+            require(4667578923).jacob(Username)
+        end
+    },
+    {
+        Name = "Cadilac",
+        Function = function(Username)
+            require(4745872847).load(Username)
+        end
+    },
+    {
+        Name = "Calamity",
+        Function = function(Username)
+            require(4692253735):Start(Username, "AAA")
+        end
+    },
+    {
+        Name = "Calamity V2",
+        Function = function(Username)
+            require(4547981012).load(Username)
+        end
+    },
+    {
+        Name = "Chain Magician",
+        Function = function(Username)
+            require(4697906425).load(Username)
+        end
+    },
+    {
+        Name = "Chaos",
+        Function = function(Username)
+            require(4769150160).load(Username)
+        end
+    },
+    {
+        Name = "Chaos Glitcher Rewritten",
+        Function = function(Username)
+            require(3411076957).load(Username)
+        end
+    },
+    {
+        Name = "Chaotic God",
+        Function = function(Username)
+            require(4087387896).load(Username)
+        end
+    },
+    {
+        Name = "Chara EDIT",
+        Function = function(Username)
+            require(4967838561).load(Username)
+        end
+    },
+    {
+        Name = "Chat Logger",
+        Function = function(Username)
+            require(5139065634).load(Username)
+        end
+    },
+    {
+        Name = "ChemZBye",
+        Function = function(Username)
+            require(5024271070):Start(Username, "AAA")
+        end
+    },
+    {
+        Name = "Christmas Demolitionist",
+        Function = function(Username)
+            require(6032614184).load(Username)
+        end
+    },
+    {
+        Name = "Chrono Sentinel",
+        Function = function(Username)
+            require(4661847142).load(Username)
+        end
+    },
+    {
+        Name = "Cool Glitcher",
+        Function = function(Username)
+            require(4859029728):Fire(Username)
+        end
+    },
+    {
+        Name = "Cop",
+        Function = function(Username)
+            require(4702165201).load(Username)
+        end
+    },
+    {
+        Name = "Corrupted V2",
+        Function = function(Username)
+            require(4864346299).load(Username)
+        end
+    },
+    {
+        Name = "Crazy Diamond",
+        Function = function(Username)
+            require(4902600443)("CD" ,Username)
+        end
+    },
+    {
+        Name = "Creeper",
+        Function = function(Username)
+            require(4708818072).Oaeh(Username)
+        end
+    },
+    {
+        Name = "Cross Sans",
+        Function = function(Username)
+            require(4571240623).load(Username)
+        end
+    },
+    {
+        Name = "Cube Buster",
+        Function = function(Username)
+            require(4661906279).load(Username)
+        end
+    },
+    {
+        Name = "Cubix",
+        Function = function(Username)
+            require(4702846562).load(Username)
+        end
+    },
+    {
+        Name = "Cyber Monarch",
+        Function = function(Username)
+            require(4701883865).load(Username)
+        end
+    },
+    {
+        Name = "Cyber Warden",
+        Function = function(Username)
+            require(2945942634):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Cyrus Glitcher",
+        Function = function(Username)
+            require(4709075479).load(Username)
+        end
+    },
+    {
+        Name = "DOE",
+        Function = function(Username)
+            require(5408044316).c3(Username)
+        end
+    },
+    {
+        Name = "Dark Noob Staff",
+        Function = function(Username)
+            require(4941814153).load(Username)
+        end
+    },
+    {
+        Name = "Celestial Glitcher",
+        Function = function(Username)
+            require(0x2f720eb8c).FUZION(Username)
+        end
+    },
+    {
+        Name = "Death",
+        Function = function(Username)
+            require(4653294841).load(Username)
+        end
+    },
+    {
+        Name = "Death Claws",
+        Function = function(Username)
+            require(5030542276).load(Username)
+        end
+    },
+    {
+        Name = "Death Note",
+        Function = function(Username)
+            require(4872782223).load(Username)
+        end
+    },
+    {
+        Name = "Demise",
+        Function = function(Username)
+            require(5030531978).load(Username)
+        end
+    },
+    {
+        Name = "Desolate",
+        Function = function(Username)
+            require(6088494183).load(Username)
+        end
+    },
+    {
+        Name = "Dimensional Glitcher",
+        Function = function(Username)
+            require(4568781811).feetus(Username)
+        end
+    },
+    {
+        Name = "Dio Sans",
+        Function = function(Username)
+            require(5012377657).Stand(Username)
+        end
+    },
+    {
+        Name = "Disturbed",
+        Function = function(Username)
+            require(6099363076).load(Username)
+        end
+    },
+    {
+        Name = "Dominant",
+        Function = function(Username)
+            require(4470057542).load(Username)
+        end
+    },
+    {
+        Name = "Dominus Corona",
+        Function = function(Username)
+            require(14175091336)(Username)
+        end
+    },
+    {
+        Name = "Dominus Phaedra",
+        Function = function(Username)
+            require(14175087575)(Username)
+        end
+    },
+    {
+        Name = "Dominus Switcher",
+        Function = function(Username)
+            require(3424188196).load(Username)
+        end
+    },
+    {
+        Name = "Double Guns",
+        Function = function(Username)
+            require(4701773380).load(Username)
+        end
+    },
+    {
+        Name = "Dssj3v2",
+        Function = function(Username)
+            require(5051013449).load(Username)
+        end
+    },
+    {
+        Name = "Dubstep Gun",
+        Function = function(Username)
+            require(4442010059).load(Username)
+        end
+    },
+    {
+        Name = "Dynamo",
+        Function = function(Username)
+            require(3592159943).load(Username)
+        end
+    },
+    {
+        Name = "Eerin",
+        Function = function(Username)
+            require(4670359380).load(Username)
+        end
+    },
+    {
+        Name = "Wander-Waffe",
+        Function = function(Username)
+            require(4689263875).load(Username)
+        end
+    },
+    {
+        Name = "Emoji God",
+        Function = function(Username)
+            require(5823684505).load(Username)
+        end
+    },
+    {
+        Name = "Empyr",
+        Function = function(Username)
+            require(4666020750).load(Username)
+        end
+    },
+    {
+        Name = "Empyrous",
+        Function = function(Username)
+            require(4666053636).load(Username)
+        end
+    },
+    {
+        Name = "Ender V4",
+        Function = function(Username)
+            require(6226531940).load(Username)
+        end
+    },
+    {
+        Name = "Etheral Glitcher",
+        Function = function(Username)
+            require(5195082409).load(Username)
+        end
+    },
+    {
+        Name = "Evil Horsemen",
+        Function = function(Username)
+            require(3737497650).load(Username)
+        end
+    },
+    {
+        Name = "External Glitcher",
+        Function = function(Username)
+            require(7696090372).load(Username)
+        end
+    },
+    {
+        Name = "Eyo-Zen",
+        Function = function(Username)
+            require(4872676779).load(Username)
+        end
+    },
+    {
+        Name = "Fallen Angel",
+        Function = function(Username)
+            require(4490557105).load(Username)
+        end
+    },
+    {
+        Name = "Fcsrz",
+        Function = function(Username)
+            require(5084695239).eliza(Username)
+        end
+    },
+    {
+        Name = "Felipe Ascension",
+        Function = function(Username)
+            require(5339034667):Start(Username, "AAA")
+        end
+    },
+    {
+        Name = "Felipe Ascension Full",
+        Function = function(Username)
+            require(6091257111).eliza(Username)
+        end
+    },
+    {
+        Name = "Felipe EDIT",
+        Function = function(Username)
+            require(5419572761):Start(Username, "Admin")
+        end
+    },
+    {
+        Name = "Flamingo Platinum",
+        Function = function(Username)
+            require(4902600443)("FP", Username)
+        end
+    },
+    {
+        Name = "Flying Teat Ball",
+        Function = function(Username)
+            require(5185119522).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Force Choke",
+        Function = function(Username)
+            require(5030052105).load(Username)
+        end
+    },
+    {
+        Name = "Friend Glitcher Reborn",
+        Function = function(Username)
+            require(4697789672).cyrus(Username)
+        end
+    },
+    {
+        Name = "Frieza",
+        Function = function(Username)
+            require(4967816334).load(Username)
+        end
+    },
+    {
+        Name = "GFC",
+        Function = function(Username)
+            require(5408062229).c3(Username)
+        end
+    },
+    {
+        Name = "GLOB",
+        Function = function(Username)
+            require(5408227768).c3(Username)
+        end
+    },
+    {
+        Name = "Galaxy Glitcher",
+        Function = function(Username)
+            require(4721766508):GalaxyGlitcher(Username)
+        end
+    },
+    {
+        Name = "Gaster",
+        Function = function(Username)
+            require(4702639572).load(Username)
+        end
+    },
+    {
+        Name = "Gek Glitcher",
+        Function = function(Username)
+            require(4789736147).load(Username)
+        end
+    },
+    {
+        Name = "Genocider",
+        Function = function(Username)
+            require(4666150028).load(Username)
+        end
+    },
+    {
+        Name = "Giant Glock Gun",
+        Function = function(Username)
+            require(2959952198):Fire(Username, "test")
+        end
+    },
+    {
+        Name = "Giant Ultra Sans",
+        Function = function(Username)
+            require(5336360739).eliza(Username)
+        end
+    },
+    {
+        Name = "Giorgio Sans",
+        Function = function(Username)
+            require(4930325164).load(Username)
+        end
+    },
+    {
+        Name = "Girl Reaper",
+        Function = function(Username)
+            require(03219306353).load(Username)
+        end
+    },
+    {
+        Name = "Gladiator",
+        Function = function(Username)
+            require(3507004797).load(Username)
+        end
+    },
+    {
+        Name = "Gnome Launcher",
+        Function = function(Username)
+            require(4907001821).gnome(Username)
+        end
+    },
+    {
+        Name = "God Of Shapes",
+        Function = function(Username)
+            require(4702356401).load(Username)
+        end
+    },
+    {
+        Name = "God Slayer",
+        Function = function(Username)
+            require(4698941018).load(Username)
+        end
+    },
+    {
+        Name = "God Stand",
+        Function = function(Username)
+            require(5237540972).load(Username)
+        end
+    },
+    {
+        Name = "God's Abandoned Daughter",
+        Function = function(Username)
+            require(5151004305).load(Username)
+        end
+    },
+    {
+        Name = "Golden Gun",
+        Function = function(Username)
+            require(4670612751).load(Username)
+        end
+    },
+    {
+        Name = "Golden Ring",
+        Function = function(Username)
+            require(4769118199).load(Username)
+        end
+    },
+    {
+        Name = "Good Cop",
+        Function = function(Username)
+            require(4697514241).load(Username)
+        end
+    },
+    {
+        Name = "Grab Gun",
+        Function = function(Username)
+            require(4804256797):Fire(Username,"a")
+        end
+    },
+    {
+        Name = "Grab Knife V1",
+        Function = function(Username)
+            require(14770923873)(Username)
+        end
+    },
+    {
+        Name = "Grab Knife V2",
+        Function = function(Username)
+            require(14770910457)(Username)
+        end
+    },
+    {
+        Name = "Grab Knife V3",
+        Function = function(Username)
+            require(14174586973)(Username)
+        end
+    },
+    {
+        Name = "Grab Knife V4",
+        Function = function(Username)
+            require(14770927892)(Username)
+        end
+    },
+    {
+        Name = "Grass Man",
+        Function = function(Username)
+            require(5209210329).load(Username)
+        end
+    },
+    {
+        Name = "Grav Hammer",
+        Function = function(Username)
+            require(4702851632).load(Username)
+        end
+    },
+    {
+        Name = "Guardian Gate Keeper",
+        Function = function(Username)
+            require(5072179438).eliza(Username)
+        end
+    },
+    {
+        Name = "Sealio V2 Guns Edit",
+        Function = function(Username)
+            require(6772335342)(Username,"gjih3424g2iuIGAUD4oh42343")
+        end
+    },
+    {
+        Name = "Sealio V2 Guns",
+        Function = function(Username)
+            require(4882848368)(Username,"BEANMANBEANMAN")
+        end
+    },
+    {
+        Name = "Sealio V1 Guns",
+        Function = function(Username)
+            require(14068914753)(Username)
+        end
+    },
+    {
+        Name = "Gun MLG",
+        Function = function(Username)
+            require(4768250046).load(Username)
+        end
+    },
+    {
+        Name = "Assassin",
+        Function = function(Username)
+            require(5217353294).load(Username)
+        end
+    },
+    {
+        Name = "HAM",
+        Function = function(Username)
+            require(5408070604).c3(Username)
+        end
+    },
+    {
+        Name = "Hacker",
+        Function = function(Username)
+            require(4982745702).load(Username)
+        end
+    },
+    {
+        Name = "Hacksaw",
+        Function = function(Username)
+            require(4560014954).load(Username)
+        end
+    },
+    {
+        Name = "Hallow Slayer",
+        Function = function(Username)
+            require(2675506369).hal(Username)
+        end
+    },
+    {
+        Name = "Headphones",
+        Function = function(Username)
+            require(5003772814).load(Username)
+        end
+    },
+    {
+        Name = "Holiday Feelings Edit",
+        Function = function(Username)
+            require(5798223634).load(Username)
+        end
+    },
+    {
+        Name = "Hoodie Stand",
+        Function = function(Username)
+            require(5164017575)("KCR", Username)
+        end
+    },
+    {
+        Name = "Hover Bike",
+        Function = function(Username)
+            require(4652456395).load(Username)
+        end
+    },
+    {
+        Name = "Hype Unleashed",
+        Function = function(Username)
+            require(4469835482).load(Username)
+        end
+    },
+    {
+        Name = "I.R.O.N",
+        Function = function(Username)
+            require(4736979488).load(Username)
+        end
+    },
+    {
+        Name = "Ice Cream",
+        Function = function(Username)
+            require(14174940360)(Username)
+        end
+    },
+    {
+        Name = "Ice Neptunian",
+        Function = function(Username)
+            require(14217318302)(Username)
+        end
+    },
+    {
+        Name = "Iluminati",
+        Function = function(Username)
+            require(2945897470):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Imposter",
+        Function = function(Username)
+            require(5828018389)(Username)
+        end
+    },
+    {
+        Name = "Incension",
+        Function = function(Username)
+            require(4672563258).load(Username)
+        end
+    },
+    {
+        Name = "Indrish Zrestik",
+        Function = function(Username)
+            require(5019013695):Fire(Username)
+        end
+    },
+    {
+        Name = "Inferno",
+        Function = function(Username)
+            require(4698997515).load(Username)
+        end
+    },
+    {
+        Name = "Infinity Gaunglet",
+        Function = function(Username)
+            require(4622105140).load(Username)
+        end
+    },
+    {
+        Name = "Infinity Gaunglet V2",
+        Function = function(Username)
+            require(5332028482).eliza(Username)
+        end
+    },
+    {
+        Name = "Influx",
+        Function = function(Username)
+            require(5089116221).load(Username)
+        end
+    },
+    {
+        Name = "Insane Geocider",
+        Function = function(Username)
+            require(4697978790).load(Username)
+        end
+    },
+    {
+        Name = "Iron Man",
+        Function = function(Username)
+            require(4949149864)(Username)
+        end
+    },
+    {
+        Name = "Iron Nazi",
+        Function = function(Username)
+            require(5493872436).eliza(Username)
+        end
+    },
+    {
+        Name = "Is Gone",
+        Function = function(Username)
+            require(2800498919):Run(Username, "i baked you a pie")
+        end
+    },
+    {
+        Name = "Jester",
+        Function = function(Username)
+            require(4670278173).load(Username)
+        end
+    },
+    {
+        Name = "JoJo Gaunglet",
+        Function = function(Username)
+            require(4570858053).load(Username)
+        end
+    },
+    {
+        Name = "JoJo Stands",
+        Function = function(Username)
+            require(5029154308).skid(Username)
+        end
+    },
+    {
+        Name = "John Doe",
+        Function = function(Username)
+            require(4622189585).load(Username)
+        end
+    },
+    {
+        Name = "John Doe Blaster",
+        Function = function(Username)
+            require(4963046652).load(Username)
+        end
+    },
+    {
+        Name = "John Wick",
+        Function = function(Username)
+            require(4721853215):Fire(Username)
+        end
+    },
+    {
+        Name = "Jump In The Caac",
+        Function = function(Username)
+            require(4702631513).load(Username)
+        end
+    },
+    {
+        Name = "KAOI",
+        Function = function(Username)
+            require(5408161881).c3(Username)
+        end
+    },
+    {
+        Name = "Karambit",
+        Function = function(Username)
+            require(4652908514).load(Username)
+        end
+    },
+    {
+        Name = "Kazoo Kid",
+        Function = function(Username)
+            require(4827295805).load(Username)
+        end
+    },
+    {
+        Name = "Kidnap Gui",
+        Function = function(Username)
+            require(5121582789).load(Username)
+        end
+    },
+    {
+        Name = "Killbot GKB",
+        Function = function(Username)
+            require(5334345785).eliza(Username)
+        end
+    },
+    {
+        Name = "Killbot V1",
+        Function = function(Username)
+            require(5060486878).load(Username)
+        end
+    },
+    {
+        Name = "Killbot V2",
+        Function = function(Username)
+            require(4612625355).load(Username)
+        end
+    },
+    {
+        Name = "Killbot V2 Edit",
+        Function = function(Username)
+            require(4938336305).load(Username)
+        end
+    },
+    {
+        Name = "Killbot V2 Official",
+        Function = function(Username)
+            require(4613126715)(3720592397).killbot(Username)
+        end
+    },
+    {
+        Name = "King Ashoal Hammer",
+        Function = function(Username)
+            require(4932680647).load(Username)
+        end
+    },
+    {
+        Name = "Kirito Blades",
+        Function = function(Username)
+            require(4692761134).load(Username)
+        end
+    },
+    {
+        Name = "Kitchen Gun",
+        Function = function(Username)
+            require(4692732456).load(Username)
+        end
+    },
+    {
+        Name = "Krystal Dance",
+        Function = function(Username)
+            require(4698336332).load(Username)
+        end
+    },
+    {
+        Name = "Kuma",
+        Function = function(Username)
+            require(6099324864).load(Username)
+        end
+    },
+    {
+        Name = "Leaf Glitcher",
+        Function = function(Username)
+            require(5011085256).load(Username)
+        end
+    },
+    {
+        Name = "Lost Dead Astronaut",
+        Function = function(Username)
+            require(5014286842):Fire(Username)
+        end
+    },
+    {
+        Name = "Lunar Rabbit",
+        Function = function(Username)
+            require(5166762777).load(Username,"hack")
+        end
+    },
+    {
+        Name = "Lustris V1",
+        Function = function(Username)
+            require(2845906776).ooga(Username)
+        end
+    },
+    {
+        Name = "Lustris V2",
+        Function = function(Username)
+            require(4867877044).load(Username)
+        end
+    },
+    {
+        Name = "M16A3",
+        Function = function(Username)
+            require(4738642243).load(Username)
+        end
+    },
+    {
+        Name = "MSG Glitcher",
+        Function = function(Username)
+            require(4841108027).MSG(Username)
+        end
+    },
+    {
+        Name = "Magic Broadsword",
+        Function = function(Username)
+            require(4941688312).load(Username)
+        end
+    },
+    {
+        Name = "Magic Warrior",
+        Function = function(Username)
+            require(5201019051).load(Username, "i baked you a pie")
+        end
+    },
+    {
+        Name = "Magma Blade",
+        Function = function(Username)
+            require(5014563257):Fire(Username)
+        end
+    },
+    {
+        Name = "Mario Stand",
+        Function = function(Username)
+            require(5154400874).load(Username)
+        end
+    },
+    {
+        Name = "Master Of Elements",
+        Function = function(Username)
+            require(4613142557).load(Username)
+        end
+    },
+    {
+        Name = "Mega Titan",
+        Function = function(Username)
+            require(4875502693).load(Username)
+        end
+    },
+    {
+        Name = "Meme Glitcher",
+        Function = function(Username)
+            require(4667651562).load(Username)
+        end
+    },
+    {
+        Name = "Midnight Glitcher",
+        Function = function(Username)
+            require(4687981421).load(Username)
+        end
+    },
+    {
+        Name = "More Guns",
+        Function = function(Username)
+            require(4922496226).Dreamer(Username)
+        end
+    },
+    {
+        Name = "Motolov",
+        Function = function(Username)
+            require(4738637093).load(Username)
+        end
+    },
+    {
+        Name = "Mr Bye Bye",
+        Function = function(Username)
+            require(4620262474).load(Username)
+        end
+    },
+    {
+        Name = "Mr Pixels Glitcher",
+        Function = function(Username)
+            require(4178465932).MPG(Username)
+        end
+    },
+    {
+        Name = "Mr Ware",
+        Function = function(Username)
+            require(4481387757).load(Username)
+        end
+    },
+    {
+        Name = "Mr Ware V2",
+        Function = function(Username)
+            require(6222865648).load(Username)
+        end
+    },
+    {
+        Name = "Murderer",
+        Function = function(Username)
+            require(3709746847).load(Username)
+        end
+    },
+    {
+        Name = "Murderer Glitcher",
+        Function = function(Username)
+            require(4785070948).load(Username)
+        end
+    },
+    {
+        Name = "Musterd Gas",
+        Function = function(Username)
+            require(2989312214).load(Username)
+        end
+    },
+    {
+        Name = "NG3",
+        Function = function(Username)
+            require(5407178653).c3(Username)
+        end
+    },
+    {
+        Name = "Nebula Staff",
+        Function = function(Username)
+            require(5152312822).load(Username)
+        end
+    },
+    {
+        Name = "Nebula Star Glitcher V1.1",
+        Function = function(Username)
+            require(4749896781).no(Username)
+        end
+    },
+    {
+        Name = "Nectula",
+        Function = function(Username)
+            require(3224070083).load(Username)
+        end
+    },
+    {
+        Name = "NelfHelm Boss",
+        Function = function(Username)
+            require(4769128965).load(Username)
+        end
+    },
+    {
+        Name = "Neptunian V",
+        Function = function(Username)
+            require(14217435560)(Username)
+        end
+    },
+    {
+        Name = "Neptunian V Edit",
+        Function = function(Username)
+            require(14217382860)(Username)
+        end
+    },
+    {
+        Name = "Neptunian Gun Knife",
+        Function = function(Username)
+            require(14174923555)(Username)
+        end
+    },
+    {
+        Name = "Neurotic",
+        Function = function(Username)
+            require(4653118489).load(Username)
+        end
+    },
+    {
+        Name = "No Head Man",
+        Function = function(Username)
+            require(5161627296).GOD(Username, "hack")
+        end
+    },
+    {
+        Name = "Noob Knife",
+        Function = function(Username)
+            require(4678565946):Fire(Username)
+        end
+    },
+    {
+        Name = "Noob Staff",
+        Function = function(Username)
+            require(4931685212).load(Username)
+        end
+    },
+    {
+        Name = "Noob Stand",
+        Function = function(Username)
+            require(4902600443)("MTW", Username)
+        end
+    },
+    {
+        Name = "Noobcider",
+        Function = function(Username)
+            require(4721712660).vi(Username)
+        end
+    },
+    {
+        Name = "Normal Stand",
+        Function = function(Username)
+            require(4902600443)("KQ", Username)
+        end
+    },
+    {
+        Name = "Nuclear Minigun",
+        Function = function(Username)
+            require(5176504023).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Nuclear Toxic Hulk",
+        Function = function(Username)
+            require(4844357782).load(Username)
+        end
+    },
+    {
+        Name = "OP Entity",
+        Function = function(Username)
+            require(4484551798).load(Username)
+        end
+    },
+    {
+        Name = "Omega Chara",
+        Function = function(Username)
+            require(5300018825).load(Username)
+        end
+    },
+    {
+        Name = "Omega Gaster",
+        Function = function(Username)
+            require(5299793703).load(Username)
+        end
+    },
+    {
+        Name = "Omega Sans",
+        Function = function(Username)
+            require(5292863529).load(Username)
+        end
+    },
+    {
+        Name = "Oof Sans",
+        Function = function(Username)
+            require(4930245801).Sans(Username)
+        end
+    },
+    {
+        Name = "OofNos",
+        Function = function(Username)
+            require(5221007407).oofth(Username)
+        end
+    },
+    {
+        Name = "PART",
+        Function = function(Username)
+            require(5408268209).c3(Username)
+        end
+    },
+    {
+        Name = "Peculiarity",
+        Function = function(Username)
+            require(4764820430):Table_MSG(Username)
+        end
+    },
+    {
+        Name = "Periastrons",
+        Function = function(Username)
+            require(4207280012).load(Username)
+        end
+    },
+    {
+        Name = "PewDiePie Star Glitcher",
+        Function = function(Username)
+            require(4667651562).load(Username)
+        end
+    },
+    {
+        Name = "Pharaoh",
+        Function = function(Username)
+            require(4481365713).load(Username)
+        end
+    },
+    {
+        Name = "Piggy",
+        Function = function(Username)
+            require(5162050572).eliza(Username)
+        end
+    },
+    {
+        Name = "Pink Guns",
+        Function = function(Username)
+            require(4702745086).load(Username, "hack")
+        end
+    },
+    {
+        Name = "PipBoy",
+        Function = function(Username)
+            require(4939065623).load(Username)
+        end
+    },
+    {
+        Name = "Pipe",
+        Function = function(Username)
+            require(4560063191).load(Username)
+        end
+    },
+    {
+        Name = "Player Size Gui",
+        Function = function(Username)
+            require(5194254117).load(Username)
+        end
+    },
+    {
+        Name = "Poison Gods Blade",
+        Function = function(Username)
+            require(5185282393).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Portal Gun",
+        Function = function(Username)
+            require(4942134331).load(Username)
+        end
+    },
+    {
+        Name = "Powerfull Eye",
+        Function = function(Username)
+            require(5234402758).load(Username)
+        end
+    },
+    {
+        Name = "Prism Code",
+        Function = function(Username)
+            require(14175897423)(Username)
+        end
+    },
+    {
+        Name = "Project 44033514",
+        Function = function(Username)
+            require(5150855227).load(Username)
+        end
+    },
+    {
+        Name = "Pulse",
+        Function = function(Username)
+            require(5018304703)(Username)
+        end
+    },
+    {
+        Name = "Pumpkin Overseer",
+        Function = function(Username)
+            require(4702210473).load(Username)
+        end
+    },
+    {
+        Name = "Purple Bog Monster",
+        Function = function(Username)
+            require(5176704597).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Purple Guy",
+        Function = function(Username)
+            require(5303528309).G(Username)
+        end
+    },
+    {
+        Name = "Quantom Glitcher",
+        Function = function(Username)
+            require(4652539736)(Username)
+        end
+    },
+    {
+        Name = "RLL",
+        Function = function(Username)
+            require(5018042393):Fire(Username)
+        end
+    },
+    {
+        Name = "Ragdoll Pan",
+        Function = function(Username)
+            require(2946000013):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Rainbow Goner",
+        Function = function(Username)
+            require(4949010161).G(Username)
+        end
+    },
+    {
+        Name = "Rainbow Stand",
+        Function = function(Username)
+            require(4930502743).load(Username)
+        end
+    },
+    {
+        Name = "Ravenger ~StopScript",
+        Function = function(Username)
+            require(2557441421)(Username)
+        end
+    },
+    {
+        Name = "Ravenger V2",
+        Function = function(Username)
+            require(6099373575).load(Username)
+        end
+    },
+    {
+        Name = "Reality Glitcher",
+        Function = function(Username)
+            require(4721789462).noxd(Username)
+        end
+    },
+    {
+        Name = "Reality Orb",
+        Function = function(Username)
+            require(4989257368).load(Username)
+        end
+    },
+    {
+        Name = "Red Mr Bye Bye",
+        Function = function(Username)
+            require(4871023391).load(Username, "loaf")
+        end
+    },
+    {
+        Name = "Red Neptunian V",
+        Function = function(Username)
+            require(14217403657)(Username)
+        end
+    },
+    {
+        Name = "Red Scythe",
+        Function = function(Username)
+            require(3543603059).load(Username)
+        end
+    },
+    {
+        Name = "Reminence Glitcher",
+        Function = function(Username)
+            require(4791595149).load(Username)
+        end
+    },
+    {
+        Name = "Ruby Golem",
+        Function = function(Username)
+            require(5014302712):Fire(Username)
+        end
+    },
+    {
+        Name = "Ruin EX",
+        Function = function(Username)
+            require(14175887100)(Username)
+        end
+    },
+    {
+        Name = "Ruin Erratum",
+        Function = function(Username)
+            require(6085232514).load(Username)
+        end
+    },
+    {
+        Name = "Ruin IX",
+        Function = function(Username)
+            require(6223727749).load(Username)
+        end
+    },
+    {
+        Name = "Ruin LX",
+        Function = function(Username)
+            require(4721721691).lx(Username)
+        end
+    },
+    {
+        Name = "Ruler Of the Universe",
+        Function = function(Username)
+            require(4967832773).load(Username)
+        end
+    },
+    {
+        Name = "S Thomas",
+        Function = function(Username)
+            require(5014354119):Fire(Username)
+        end
+    },
+    {
+        Name = "SCP 096",
+        Function = function(Username)
+            require(5061767478).load(Username)
+        end
+    },
+    {
+        Name = "SCP 106",
+        Function = function(Username)
+            require(5065079644):Fire(Username)
+        end
+    },
+    {
+        Name = "SGRS",
+        Function = function(Username)
+            require(4521367095).load(Username)
+        end
+    },
+    {
+        Name = "SS Detector",
+        Function = function(Username)
+            require(5486428805).Detect(Username)
+        end
+    },
+    {
+        Name = "Sadist Genocider",
+        Function = function(Username)
+            require(4700942162).load(Username)
+        end
+    },
+    {
+        Name = "Saneeees",
+        Function = function(Username)
+            require(4176847784).load(Username)
+        end
+    },
+    {
+        Name = "Sans Gaster",
+        Function = function(Username)
+            require(3628802124).load(Username)
+        end
+    },
+    {
+        Name = "Sans Last Breath Another Edit",
+        Function = function(Username)
+            require(4507584604).load(Username)
+        end
+    },
+    {
+        Name = "Satanic Samurai",
+        Function = function(Username)
+            require(4735130128).hal(Username)
+        end
+    },
+    {
+        Name = "School Shooter",
+        Function = function(Username)
+            require(2826823504):Run(Username,"i baked you a pie")
+        end
+    },
+    {
+        Name = "School Shooter Remake",
+        Function = function(Username)
+            require(3548505226):Fire(Username,"i baked you a pie")
+        end
+    },
+    {
+        Name = "Scissor Zombie",
+        Function = function(Username)
+            require(5195833016).load(Username, "test")
+        end
+    },
+    {
+        Name = "Scythe",
+        Function = function(Username)
+            require(5176829184).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Server Admin",
+        Function = function(Username)
+            require(4665394711).load(Username)
+        end
+    },
+    {
+        Name = "Shackluster's Knife",
+        Function = function(Username)
+            require(4702233499).load(Username)
+        end
+    },
+    {
+        Name = "Shield Fiend",
+        Function = function(Username)
+            require(4703411081).load(Username)
+        end
+    },
+    {
+        Name = "Shini-G4-MI",
+        Function = function(Username)
+            require(4610405562).load(Username)
+        end
+    },
+    {
+        Name = "Shrike",
+        Function = function(Username)
+            require(4699164303).load(Username)
+        end
+    },
+    {
+        Name = "Sin Dragon",
+        Function = function(Username)
+            require(14136474118)(Username)
+        end
+    },
+    {
+        Name = "Skid Switcher V2",
+        Function = function(Username)
+            require(5382391946).skids2(Username)
+        end
+    },
+    {
+        Name = "Skuller",
+        Function = function(Username)
+            require(5405863585).G(Username)
+        end
+    },
+    {
+        Name = "Sky Glitcher",
+        Function = function(Username)
+            require(3564207744):sky(Username)
+        end
+    },
+    {
+        Name = "Slapping Fish",
+        Function = function(Username)
+            require(5180702303).load(Username)
+        end
+    },
+    {
+        Name = "Snow Golem",
+        Function = function(Username)
+            require(4697837332).load(Username)
+        end
+    },
+    {
+        Name = "Snow Machine",
+        Function = function(Username)
+            require(4570458887).load(Username)
+        end
+    },
+    {
+        Name = "Solaris",
+        Function = function(Username)
+            require(2946060158):Fire(Username, "hack")
+        end
+    },
+    {
+        Name = "Spectrum Glitcher Remake",
+        Function = function(Username)
+            require(4809742472).load(Username)
+        end
+    },
+    {
+        Name = "Spectum Glitcher",
+        Function = function(Username)
+            require(4801286155).load(Username)
+        end
+    },
+    {
+        Name = "Spell Caster",
+        Function = function(Username)
+            require(4878971408).load(Username)
+        end
+    },
+    {
+        Name = "Spiderbot",
+        Function = function(Username)
+            require(4666386879).load(Username)
+        end
+    },
+    {
+        Name = "Spiderman",
+        Function = function(Username)
+            require(5010081614):Fire(Username)
+        end
+    },
+    {
+        Name = "Spongebob Bus",
+        Function = function(Username)
+            require(5206315724).load(Username)
+        end
+    },
+    {
+        Name = "Squat Man",
+        Function = function(Username)
+            require(6049369369).load(Username)
+        end
+    },
+    {
+        Name = "Star Glitcher",
+        Function = function(Username)
+            require(4721922423).load(Username, "test")
+        end
+    },
+    {
+        Name = "Star Glitcher V7",
+        Function = function(Username)
+            require(4737096190).load(Username)
+        end
+    },
+    {
+        Name = "Star Time Glitcher",
+        Function = function(Username)
+            require(5480093885):StarGlitcherTime(Username)
+        end
+    },
+    {
+        Name = "Starlight",
+        Function = function(Username)
+            require(4874790622).load(Username)
+        end
+    },
+    {
+        Name = "Steve Stand",
+        Function = function(Username)
+            require(4902600443)("STV", Username)
+        end
+    },
+    {
+        Name = "Studio",
+        Function = function(Username)
+            require(4698656280).load(Username)
+        end
+    },
+    {
+        Name = "Suicide Injection",
+        Function = function(Username)
+            require(4942136324).load(Username)
+        end
+    },
+    {
+        Name = "Sun God",
+        Function = function(Username)
+            require(5185178205).load(Username, "hack")
+        end
+    },
+    {
+        Name = "Super MSG",
+        Function = function(Username)
+            require(5339730995)["owo"](Username);
+        end
+    },
+    {
+        Name = "Supernova",
+        Function = function(Username)
+            require(5407130919).c3(Username)
+        end
+    },
+    {
+        Name = "Switcher",
+        Function = function(Username)
+            require(4666430249).cancerv3(Username)
+        end
+    },
+    {
+        Name = "Switcher V4",
+        Function = function(Username)
+            require(4639995976).v4(Username)
+        end
+    },
+    {
+        Name = "Syrian Soldier",
+        Function = function(Username)
+            require(4967315171).load(Username, "test")
+        end
+    },
+    {
+        Name = "Sythenizer Glitcher",
+        Function = function(Username)
+            require(5339705018).load(Username)
+        end
+    },
+    {
+        Name = "TB Flamethrower",
+        Function = function(Username)
+            require(4483948796).load(Username)
+        end
+    },
+    {
+        Name = "TV",
+        Function = function(Username)
+            require(5408234869).c3(Username)
+        end
+    },
+    {
+        Name = "Tall Man",
+        Function = function(Username)
+            require(5760006539).load(Username)
+        end
+    },
+    {
+        Name = "Tank",
+        Function = function(Username)
+            require(5068511197).insert(Username)
+        end
+    },
+    {
+        Name = "Tatrionical Fataliser",
+        Function = function(Username)
+            require(4702362667).load(Username)
+        end
+    },
+    {
+        Name = "Tea",
+        Function = function(Username)
+            require(3543575474).load(Username)
+        end
+    },
+    {
+        Name = "Techno Fairy",
+        Function = function(Username)
+            require(4872735633).load(Username)
+        end
+    },
+    {
+        Name = "Telemons's Hammer",
+        Function = function(Username)
+            require(4942331079).load(Username)
+        end
+    },
+    {
+        Name = "Terraria Sword",
+        Function = function(Username)
+            require(5185317856).load(Username)
+        end
+    },
+    {
+        Name = "Tesseract",
+        Function = function(Username)
+            require(4611972434).load(Username)
+        end
+    },
+    {
+        Name = "Thanos Glove",
+        Function = function(Username)
+            require(7714457940).load(Username)
+        end
+    },
+    {
+        Name = "The Amulet",
+        Function = function(Username)
+            require(5813871571).load(Username)
+        end
+    },
+    {
+        Name = "The Ancient Voodoo Child",
+        Function = function(Username)
+            require(6243450493).load(Username)
+        end
+    },
+    {
+        Name = "The Hand",
+        Function = function(Username)
+            require(3095760045):Fire(Username)
+        end
+    },
+    {
+        Name = "The Holy Vaccum",
+        Function = function(Username)
+            require(4932480712).load(Username)
+        end
+    },
+    {
+        Name = "The Hotline",
+        Function = function(Username)
+            require(5813879549).load(Username)
+        end
+    },
+    {
+        Name = "The Murderer",
+        Function = function(Username)
+            require(5122252940)(Username)
+        end
+    },
+    {
+        Name = "Thiago's Glitcher",
+        Function = function(Username)
+            require(5012778305).bro(Username)
+        end
+    },
+    {
+        Name = "Thomas The Tank Engine",
+        Function = function(Username)
+            require(4702393505).load(Username)
+        end
+    },
+    {
+        Name = "Thug Skeleton",
+        Function = function(Username)
+            require(5199565192).load(Username)
+        end
+    },
+    {
+        Name = "Toxi",
+        Function = function(Username)
+            require(4766340057).ww(Username)
+        end
+    },
+    {
+        Name = "Turbolizer?",
+        Function = function(Username)
+            require(6042884042).load(Username)
+        end
+    },
+    {
+        Name = "Turret Car",
+        Function = function(Username)
+            require(5185235553).load(Username)
+        end
+    },
+    {
+        Name = "UFO",
+        Function = function(Username)
+            require(5408177599).c3(Username)
+        end
+    },
+    {
+        Name = "Ubergod",
+        Function = function(Username)
+            require(4666103936).load(Username)
+        end
+    },
+    {
+        Name = "Ultimate Guest",
+        Function = function(Username)
+            require(4952074297).load(Username)
+        end
+    },
+    {
+        Name = "Ultimate Star Glitcher",
+        Function = function(Username)
+            require(4685277097).SGU(Username)
+        end
+    },
+    {
+        Name = "Ultra Ali",
+        Function = function(Username)
+            require(3287961196):Fireplace(Username)
+        end
+    },
+    {
+        Name = "Ultra Sans",
+        Function = function(Username)
+            require(5191195848).eliza(Username)
+        end
+    },
+    {
+        Name = "Umbra Mercenary",
+        Function = function(Username)
+            require(4766332788).vv(Username)
+        end
+    },
+    {
+        Name = "Unknow Magic",
+        Function = function(Username)
+            require(4721880357):Fire(Username)
+        end
+    },
+    {
+        Name = "VRON",
+        Function = function(Username)
+            require(5408250642).c3(Username)
+        end
+    },
+    {
+        Name = "Van (Target Name)",
+        Function = function(Username)
+            require(7219625364).Van(Username)
+        end
+    },
+    {
+        Name = "Vereus",
+        Function = function(Username)
+            require(4875169740).load(Username)
+        end
+    },
+    {
+        Name = "Viankos",
+        Function = function(Username)
+            require(6123029966).vian(Username)
+        end
+    },
+    {
+        Name = "Video Powers",
+        Function = function(Username)
+            require(4702362667).load(Username)
+        end
+    },
+    {
+        Name = "Void",
+        Function = function(Username)
+            require(4470446746).load(Username)
+        end
+    },
+    {
+        Name = "Void Boss",
+        Function = function(Username)
+            require(4769881811).load(Username)
+        end
+    },
+    {
+        Name = "Void Boss V3",
+        Function = function(Username)
+            require(4175593306).Void(Username)
+        end
+    },
+    {
+        Name = "Void Eye",
+        Function = function(Username)
+            require(4769099074).load(Username)
+        end
+    },
+    {
+        Name = "Void Prince",
+        Function = function(Username)
+            require(4771194490):void(Username)
+        end
+    },
+    {
+        Name = "Volcanic's Guns",
+        Function = function(Username)
+            require(4741518800).Guns(Username)
+        end
+    },
+    {
+        Name = "Vortex Gaunglets",
+        Function = function(Username)
+            require(5030632363).load(Username)
+        end
+    },
+    {
+        Name = "WDY Form",
+        Function = function(Username)
+            require(5150834064).load(Username)
+        end
+    },
+    {
+        Name = "Wanderer",
+        Function = function(Username)
+            require(5234431005).load(Username)
+        end
+    },
+    {
+        Name = "Warden",
+        Function = function(Username)
+            require(4698484171).load(Username)
+        end
+    },
+    {
+        Name = "Warrior Glitcher",
+        Function = function(Username)
+            require(4658039182).load(Username)
+        end
+    },
+    {
+        Name = "What Another One V2.5",
+        Function = function(Username)
+            require(2598638616).coolify(Username)
+        end
+    },
+    {
+        Name = "What Another One V2",
+        Function = function(Username)
+            require(4192009387).load(Username)
+        end
+    },
+    {
+        Name = "What Another One V1",
+        Function = function(Username)
+            require(5219890557).load(Username, "anotherv1")
+        end
+    },
+    {
+        Name = "Will Of Justice",
+        Function = function(Username)
+            require(5138330292).load(Username)
+        end
+    },
+    {
+        Name = "Winter Conjurer",
+        Function = function(Username)
+            require(4702823533).load(Username)
+        end
+    },
+    {
+        Name = "Wyvern",
+        Function = function(Username)
+            require(4661961003).load(Username)
+        end
+    },
+    {
+        Name = "Xester",
+        Function = function(Username)
+            require(14175124863)(Username)
+        end
+    },
+    {
+        Name = "Xester V2",
+        Function = function(Username)
+            require(6099241563).load(Username)
+        end
+    },
+    {
+        Name = "Yellow Sword",
+        Function = function(Username)
+            require(5166648286).load(Username, "test")
+        end
+    },
+    {
+        Name = "Zalgo",
+        Function = function(Username)
+            require(5225108665).Dark(Username)
+        end
+    },
+    {
+        Name = "Zamazu",
+        Function = function(Username)
+            require(4697880637).load(Username)
+        end
+    },
+    {
+        Name = "Zen Master",
+        Function = function(Username)
+            require(5072179438).eliza(Username)
+        end
+    },
+    {
+        Name = "Zenith BR-70",
+        Function = function(Username)
+            require(4590297182).load(Username)
+        end
+    },
+    {
+        Name = "Zephir",
+        Function = function(Username)
+            require(6099248386).load(Username)
+        end
+    },
+    {
+        Name = "Zubus Grab Knife",
+        Function = function(Username)
+            require(4528405939).load(Username)
+        end
+    },
+    {
+        Name = "Zythian",
+        Function = function(Username)
+            require(4666351790).load(Username)
+        end
+    }
+}
