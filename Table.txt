@@ -6,12 +6,6 @@ return {
         end
     },
     {
-        Name = "Fred Bear (The lag may be severe)",
-        Function = function(Username)
-            require(13761549843).pedobear(Username)
-        end
-    },
-    {
         Name = "Internal War",
         Function = function(Username)
             require(6152259244).load(Username)
